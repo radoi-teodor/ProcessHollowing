@@ -1,0 +1,4 @@
+﻿  Program.cpp
+I:\Proiecte\ProcessHollowing\ProcessHollowing\Program.cpp(152,47): warning C4838: conversion from 'unsigned __int64' to 'DWORD' requires a narrowing conversion
+I:\Proiecte\ProcessHollowing\ProcessHollowing\Program.cpp(152,47): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+  ProcessHollowing.vcxproj -> I:\Proiecte\ProcessHollowing\x64\Debug\ProcessHollowing.exe
